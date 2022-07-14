@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  height: 100vh;
+  padding: 2.6rem 5rem;
+}
+
+.title {
+  font-weight: bold;
+  margin-bottom: 5.6rem;
+  height: 8rem;
+}
+
+.question {
+  position: relative;
+  min-height: 28rem;
+}
+
+.counter {
+  font-size: 1.8rem;
+}
+
+.info {
+  color: #707070;
+  font-size: 1.4rem;
+}
